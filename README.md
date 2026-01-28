@@ -17,4 +17,5 @@ main-branch
 Re-learning the former knowledge
 
 ## Key Takeaways
-Learned most of what I forgot back then from senior high like linking, tables and I also added a bit of css like removing the the underline from a href link and making a table border more solid
+Learned most of what I forgot back then from senior high like linking and tables.
+I also added a bit of css like removing the the underline from a href link and making a table border more solid
